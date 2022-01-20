@@ -1,0 +1,140 @@
+body{
+  font-family: Dongle;
+}
+
+#title{
+  background-color: #F9F3DF;
+  color:#FF865E;
+}
+.peri{
+  width:60%;
+  margin-left: 100px;
+  margin-top: 100px;
+
+}
+.myth{
+  margin-top: 100px;
+}
+h1{
+  font-family: Dongle;
+  font-size: 4rem;
+  font-weight: bold;
+  line-height: 1.5;
+  color:#FF865E;
+}
+h3{
+  font-size: 2em;
+  font-family: Dongle;
+  font-weight: 300;
+  line-height: 1;
+  color:#FF865E;
+}
+.h33{
+  font-weight:bold;
+  font-size: 2.5 rem;
+}
+.p{
+  font-size: 1.6rem;
+  color: #876445;
+  line-height: 1.5;
+
+}
+.container-fluid{
+  padding: 3% 15% 20%;
+}
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: bold;
+}
+.nav-link{
+  font-size: 2rem;
+}
+.nav-item{
+  padding: 0 15px;
+}
+.navbar{
+  padding-bottom: 5 0 5rem 0;
+}
+.btn{
+  margin: 2% 2% 0 80%;
+}
+#books{
+  padding: 7% 15%;
+  text-align: center;
+}
+.box{
+  padding: 5%;
+}
+.h33:hover{
+  color:#F9F3DF;
+}
+#test{
+  text-align: center;
+  background-color: #FF865E;
+  color:#fff;
+}
+.img{
+  width:30%;
+  border-radius: 100%;
+  margin: 20px;
+}
+h2{
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+em{
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+footer {
+    background-color: #F9F3DF;
+    padding: 40px 0;
+    color: #000;
+}
+.footer-left a{
+    color: #000;
+    margin-right: 20px;
+    margin-left: 15px;
+    font-size: 25px;
+}
+.footer-right a{
+    color: #000;
+    margin-left: 20px;
+    margin-right: 15px;
+    font-size: 25px;
+}
+.footer-right span{
+    color: #000;
+    font-size: 25px;
+}
+
+.grid-posts{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.card{
+    width: 400px;
+}
+.card-text{
+    overflow-y: scroll;
+    height: 200px;
+}
+.grid-posts .card{
+    border: 0;
+    margin-bottom: 100px;
+}
+.grid-posts .card-body{
+    padding-left: 0;
+    padding-right: 0;
+    height: 300px;
+    background-color: #F9F3DF;
+}
+.grid-posts .card-img-top{
+    max-height: 450px;
+    max-width: 400px;
+    border-radius: 0;
+}

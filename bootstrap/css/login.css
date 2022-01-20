@@ -1,0 +1,37 @@
+body{
+  font-family: Dongle;
+}
+
+#title{
+  background-color: #F9F3DF;
+  color:#FF865E;
+}
+h1{
+  font-family: Dongle;
+  font-size: 4rem;
+  font-weight: bold;
+  line-height: 1.5;
+  color:#FF865E;
+  margin-left: 250px;
+  margin-top: 70px;
+}
+.text{
+  position:relative;
+  top:20px;
+  left:350px;
+  font-size: 1.3rem;
+}
+#contacts{
+  margin-left: 30px;
+  margin-top: 80px;
+  font-size: 2rem;
+}
+.h32:hover{
+  color:#FEE440;
+}
+.anim{
+  font-size: 1.3rem;
+}
+.colorlibcopy-agile{
+  font-size: 1.3rem;
+}
